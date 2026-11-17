@@ -1,0 +1,15 @@
+# Compiled files
+*.class
+*.jar
+bin/
+build/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
